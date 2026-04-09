@@ -15,4 +15,11 @@ User reported that the company website was not accessible.
 - Likely server-side issue
 
 ## Resolution
-Escalated to appropriate team.
+Escalated to appropriate team due to confirmed server-side issue impacting multiple users.
+
+
+## Skills Demonstrated
+- DNS troubleshooting
+- Network connectivity testing
+- Issue isolation
+- Escalation procedures
